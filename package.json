@@ -1,0 +1,23 @@
+{
+  "name": "yelply",
+  "version": "1.0.0",
+  "description": "Very basic project utilizing jQuery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidank/yelply.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidank/yelply/issues"
+  },
+  "homepage": "https://github.com/davidank/yelply#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "underscore": "^1.8.3"
+  }
+}
